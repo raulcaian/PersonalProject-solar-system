@@ -1,0 +1,2 @@
+engine_count = 4
+acceleration_per_engine_m_s2 = 10
